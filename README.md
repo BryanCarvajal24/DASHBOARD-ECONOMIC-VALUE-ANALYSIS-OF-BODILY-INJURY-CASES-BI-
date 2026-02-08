@@ -16,6 +16,7 @@ Enables identification of **which sources provide cases with higher BI and great
 
 ## Tool
 - Power BI
+- Power Query
 
 ## Author
 **Bryan Fernando Burbano Carvajal**  
